@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "641843693964",
+    "project_id": "smartsellbd-98071",
+    "storage_bucket": "smartsellbd-98071.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641843693964:android:3d9aa63d5ef9ce6e8b2ea9",
+        "android_client_info": {
+          "package_name": "com.example.smart_cell_bd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7oqWIpUM2iHsA4cM14Y2cnlS8Unj_g_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
