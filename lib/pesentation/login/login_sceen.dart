@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
+import 'package:smart_cell_bd/pesentation/home/HomeScreen.dart';
 import 'package:smart_cell_bd/pesentation/signUp/view/signUp_screen.dart';
 
 class LoginScreen extends StatelessWidget {
@@ -87,6 +88,7 @@ class LoginScreen extends StatelessWidget {
                       ),
 
                       onPressed: (){
+                        Get.to(()=>const HomeScreen());
 
 
 
